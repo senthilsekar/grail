@@ -1,1 +1,3 @@
-# grail
+- Please start the ParticipantRegistryApiApplication.java which will bring up the spring boot application (it uses the inmemory Derby Database so value will be persisted to it)
+- Use the postman collection to ADD, GET, UPDATE and Delete Participant Details. 
+- We can also use the test cases to run -  ParticipantApiControllerIntegrationTest , ParticipantApiControllerUnitTestWithMock
